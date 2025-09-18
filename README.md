@@ -16,7 +16,7 @@ Salah satu cara paling umum untuk mendeteksi outlier adalah dengan **Interquarti
 - Data dianggap outlier jika:
   - Nilai < Q1 - 1.5 × IQR
   - Nilai > Q3 + 1.5 × IQR
-![iqr] https://github.com/c14250130-ui/Removal-outlier-dengan-iqr/blob/main/iqr.jpg
+![iqr](https://github.com/c14250130-ui/Removal-outlier-dengan-iqr/blob/main/iqr.jpg)
 
 ## 3. Implementasi
 Langkah-langkah preprocessing:
